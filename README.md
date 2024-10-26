@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Tirth Patel
 
 I'm a passionate **Software Developer** with experience in a wide range of technologies. I love working on projects that challenge me to learn and grow. From **full-stack development** to **UI/UX design**, I focus on building user-friendly and highly efficient applications.
@@ -73,3 +74,11 @@ _A dynamic website with seamless transitions, including a smooth UI for browsing
 - 💡 I love working on challenging real-world problems
 - ✨ I'm constantly exploring new technologies
 - 🎨 I design beautiful UI/UX with Figma and bring them to life using Bootstrap & Tailwind CSS
+
+---
+
+## 👁️ Total Views
+
+[![Total Views](https://komarev.com/ghpvc/?username=Tirth1224&color=green&style=flat-square)](https://github.com/Tirth1224)
+
+---
