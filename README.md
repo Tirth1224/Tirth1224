@@ -18,25 +18,30 @@ I'm a passionate **Software Developer** with experience in a wide range of techn
 
 Here are the tools and technologies I work with:
 
-<img src="https://github.com/user-attachments/assets/d8d770eb-9413-47dc-a427-b08847827f06" alt="Java" width="80"/>
-<img src="https://github.com/user-attachments/assets/cb717171-2698-4293-8d2c-09311a0b73ec" alt="PHP" width="80"/>
-<img src="https://github.com/user-attachments/assets/bd4c7a6a-b843-43cf-aabf-2ea48212537a" alt="React" width="80"/>
-<img src="https://github.com/user-attachments/assets/d29db78d-f9e4-4d47-8113-2c0b071ade4a" alt="JS" width="80"/>
-<img src="https://github.com/user-attachments/assets/91d4816c-00a2-419c-95fd-092ff75ec5ac" alt="Bootstrap" width="80"/>
-<img src="https://github.com/user-attachments/assets/69dc6f4b-40ad-46fd-bb18-1b4ed4cbb44c" alt="HTMl" width="80"/>
-<img src="https://github.com/user-attachments/assets/0c195e7f-1700-4051-afb0-a89ec12e3051" alt="CSS" width="80"/>
-<img src="https://github.com/user-attachments/assets/2bfb9c56-e27c-41b7-9608-66d46805a760" alt="Node Js" width="80"/>
-<img src="https://github.com/user-attachments/assets/48a11c51-34bb-4247-85d2-b984a8ae38eb" alt="Express" width="80"/>
-<img src="https://github.com/user-attachments/assets/af920100-0c50-424f-9ccf-58646b84a787" alt="TypeScript" width="80"/>
-<img src="https://github.com/user-attachments/assets/39931116-0a16-4554-a3f7-d896860784c4" alt="TailWind CSS" width="80"/>
+<img src="https://github.com/user-attachments/assets/1e89b015-7924-46f4-a16c-571e111cb8bb" alt="HTML" width="80"/>
+<img src="https://github.com/user-attachments/assets/d94742fb-451b-4607-a93c-12c8eaa4cc54" alt="CSS" width="80"/>
+<img src="https://github.com/user-attachments/assets/fb084a39-dd58-4a29-b7a0-1d6bbdfdc37c" alt="Javascript" width="80"/>
+<img src="https://github.com/user-attachments/assets/abec7ba3-5285-4fda-8c2f-a52d8743f9d4" alt="Bootstrap" width="80"/>
+<img src="https://github.com/user-attachments/assets/68aa8cd7-9f49-4480-866a-ebdfad886247" alt="React" width="80"/>
+<img src="https://github.com/user-attachments/assets/58e56cb8-f68d-404f-9943-28f4e97a23f5" alt="TS" width="80"/>
+<img src="https://github.com/user-attachments/assets/c656333f-0bf7-4489-9989-cdb695ac6cae" alt="Nodejs" width="80"/>
+<img src="https://github.com/user-attachments/assets/bfa7254b-f856-43ae-9ff5-33dda7cba23a" alt="Express" width="80"/>
+<img src="https://github.com/user-attachments/assets/3e4dc5d3-9596-4add-9461-716f60f59d9d" alt="Tailwind" width="80"/>
 <img src="https://github.com/user-attachments/assets/4d866829-b48d-4d09-b493-0b44e0ee3eac" alt="Shadcn" width="80"/>
-<img src="https://github.com/user-attachments/assets/203e6749-28f2-4b6c-b997-2222742b182d" alt="C" width="80"/>
+<img src="https://github.com/user-attachments/assets/e7389a51-6f4a-4aca-b5ab-a9ee045979e0" alt="Java" width="80"/>
+<img src="https://github.com/user-attachments/assets/b10e69b1-174b-4cce-a726-182666e7bb5d" alt="C" width="80"/>
+<img src="https://github.com/user-attachments/assets/55aa50de-c04e-4c89-870b-df136c8916f4" alt="PHP" width="80"/>
 <img src="https://github.com/user-attachments/assets/2da4e940-acc9-427d-ad44-12d42289d4b0" alt="GITHUB" width="80"/>
 <img src="https://github.com/user-attachments/assets/60d2c4ad-162d-4441-b731-92c414470506" alt="MYSql" width="80"/>
 <img src="https://github.com/user-attachments/assets/3c35c461-7762-42a8-9186-0ca88bcbd111" alt="MongoDB" width="80"/>
 <img src="https://github.com/user-attachments/assets/342b54da-b075-4a2f-b588-cc4c9e9d634c" alt="VS COde" width="80"/>
 <img src="https://github.com/user-attachments/assets/8c99e110-4177-4d25-91a7-61b49e35ab18" alt="Figma" width="80"/>
-
+<img src="https://github.com/user-attachments/assets/52d1b166-cc2a-426a-8e85-6c08bcb5ffcc" alt="Postman" width="80"/>
+<img src="https://github.com/user-attachments/assets/7189d2d1-1aea-42a4-b3db-d5d58135a9b5" alt="Git" width="80"/>
+<img src="https://github.com/user-attachments/assets/857cabe6-9389-4ddb-91d2-787d5d1353f0" alt="Arduino" width="80"/>
+<img src="https://github.com/user-attachments/assets/ba5cad2d-7ad9-44c9-a997-85bf54aaba48" alt="ChatGPT" width="80"/>
+<img src="https://github.com/user-attachments/assets/cff44ce5-1a6f-40f1-8215-eacaa6ec00a7" alt="Cloudinary" width="80"/>
+<img src="https://github.com/user-attachments/assets/17c9de03-98b7-4961-ae4c-0220e6e7029b" alt="Razorpay" width="80"/>
 
 ---
 
