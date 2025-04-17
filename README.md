@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with experience in a wide range of techn
 
 - 🎓 B.Tech in Computer Engineering with a CGPA of 8.6
 - 🏆 Achievements: Google Cloud Speed Boost (19th Rank)
-- 💼 Major Projects: [Tourist Guide and Taxi Services Hub](https://github.com/Tirth1224/tourist-guide-taxi-services-hub), [QuickBite](https://quickbite-m8sv.onrender.com/)
+- 💼 Major Projects: [Tourist Guide and Taxi Services Hub](https://github.com/Tirth1224/tourist-guide-taxi-services-hub), [QuickBite](https://quickbite-m8sv.onrender.com/). [Edemy-LMS](https://edemyylms.vercel.app)
 - 🌱 Currently learning: Mern Stack with **React** and **TypeScript**
 
 ---
