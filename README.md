@@ -59,7 +59,7 @@ _A dynamic website with seamless transitions, including a smooth UI for browsing
 
 ### 📖 [E-Learning Website](https://edemyylms.vercel.app/)
 _A dynamic LMS platform with seamless navigation, featuring an intuitive UI for exploring courses and tracking progress effortlessly._  
-<img src="https://github.com/user-attachments/assets/36b8cbd3-40d5-4d80-a907-6a5720cd0931" width="400" height="200"/>
+<img src="https://github.com/user-attachments/assets/491cabef-312f-44af-8a43-9ac0f5634d88" width="400" height="200"/>
 
 ---
 
