@@ -49,12 +49,16 @@ Here are the tools and technologies I work with:
 
 Here are some of my favorite projects:
 
-### 🚗 [Tourist Guide and Taxi Services Hub](https://github.com/yourproject)
+### 🚗 [Tourist Guide and Taxi Services Hub](https://github.com/Tirth1224/tourist-guide-taxi-services-hub)
 _Provides a hub for local guides and taxi services to travelers, creating employment for locals while offering an easy booking system._  
 <img src="https://github.com/user-attachments/assets/e6ecf9a0-2bcd-4241-af2e-d3063dd60f3e" width="400" height="250"/>
 
 ### 🍽️ [Food Ordering Website](https://quickbite-m8sv.onrender.com/)
 _A dynamic website with seamless transitions, including a smooth UI for browsing menus and placing orders._  
+<img src="https://github.com/user-attachments/assets/36b8cbd3-40d5-4d80-a907-6a5720cd0931" width="400" height="200"/>
+
+### 📖 [E-Learning Website](https://edemyylms.vercel.app/)
+_A dynamic LMS platform with seamless navigation, featuring an intuitive UI for exploring courses and tracking progress effortlessly._  
 <img src="https://github.com/user-attachments/assets/36b8cbd3-40d5-4d80-a907-6a5720cd0931" width="400" height="200"/>
 
 ---
